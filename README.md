@@ -534,7 +534,7 @@ Durante o desenvolvimento, foram confirmados:
 
 ## 17. Repositório
 
-**GitHub:** https://github.com/Group-GS/GS-IoT
+**GitHub:** https://github.com/GS-CitizenTech/GS-IoT
 
 ## 18. Integrantes
 
